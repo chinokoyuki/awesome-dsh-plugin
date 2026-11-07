@@ -1,0 +1,7 @@
+url: https://github.com/chinokoyuki/dsh-anime-model-avatars
+name: chinokoyuki/dsh-anime-model-avatars
+category: theme
+description:
+  en: Adds anime-style avatars to model labels and brand-specific thinking icons, animations and Chinese labels in the DSH Web UI.
+  zh: 为 DSH Web 模型名添加二次元头像，并按系列提供思考图标、动画与中文提示。
+icon: https://raw.githubusercontent.com/chinokoyuki/dsh-anime-model-avatars/main/icon.png
